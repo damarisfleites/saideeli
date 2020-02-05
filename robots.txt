@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maidurohf.passkeeper.com/sitemap.xml
